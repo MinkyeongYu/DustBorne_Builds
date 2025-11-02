@@ -1,2 +1,2 @@
 # DungeonsRecipe_Builds
-Binary releases for the game **DungeonsRecipe**.
+Binary releases for the game **DustBorne**.
